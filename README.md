@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="poto" src="cover.png" />
+	<img alt="poto" src="GITHUB/Cover.png" />
 </h1>
 
 Here are the links to repositories
@@ -13,4 +13,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 &nbsp;by Gustavo Henrique 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/gustavohribeiro/)
+Made with 💜 &nbsp;by Gustavo Henrique 👋 &nbsp;[See my linkedin](https://linkedin.com/in/gustavo-henrique-ribeiro-dias)
