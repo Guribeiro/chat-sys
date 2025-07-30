@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="poto" src="GITHUB/Cover.png" />
+	<img alt="chat-sys" src="GITHUB/Cover.png" />
 </h1>
 
 Here are the links to repositories
